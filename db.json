@@ -1,1 +1,18 @@
-
+{
+  "tindakan":[
+    { "id": "12239", "nama_tindakan": "Konsultasi Dokter Spesialis R" },
+    { "id": "15230", "nama_tindakan": "Biopsi Kulit" },
+    { "id": "15283", "nama_tindakan": "Resusitasi Jantung Paru + Imtubasi ETT" },
+    { "id": "15292", "nama_tindakan": "Polipektomi" },
+    { "id": "15424", "nama_tindakan": "Laparatomi Eplorasi / Chlongiografi" },
+    { "id": "15511", "nama_tindakan": "Chordectomi" },
+    { "id": "401379", "nama_tindakan": "Inseminasi Sex Selection X" },
+    { "id": "402873", "nama_tindakan": "Inhalasi Kegawatan" },
+    { "id": "1002119623", "nama_tindakan": "Rapid Antigen" }
+  ],
+  "kelompok_medis":[
+    { "id": "178", "nama_kel_medis": "KK Bedah Anak" },
+    { "id": "190", "nama_kel_medis": "KK Infertilitas dan Endokrin" },
+    { "id": "222", "nama_kel_medis": "KK Umum" }
+  ]
+}
