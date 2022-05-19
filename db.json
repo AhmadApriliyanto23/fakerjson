@@ -9,10 +9,5 @@
     { "id": "401379", "nama_tindakan": "Inseminasi Sex Selection X" },
     { "id": "402873", "nama_tindakan": "Inhalasi Kegawatan" },
     { "id": "1002119623", "nama_tindakan": "Rapid Antigen" }
-  ],
-  "kelompok_medis":[
-    { "id": "178", "nama_kel_medis": "KK Bedah Anak" },
-    { "id": "190", "nama_kel_medis": "KK Infertilitas dan Endokrin" },
-    { "id": "222", "nama_kel_medis": "KK Umum" }
   ]
 }
